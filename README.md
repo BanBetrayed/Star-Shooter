@@ -1,2 +1,2 @@
 # Star-Shooter
-A final project for a summer institute program
+The final project for Height's BLI Summer Program
